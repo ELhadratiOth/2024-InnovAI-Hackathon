@@ -33,3 +33,8 @@ The Siir.AI chatbot is a **versatile, AI-powered assistant** designed to:
 ## Monetization Strategies
 - **Advertising Partnerships**: Collaborate with businesses like hotels and restaurants for targeted promotions (B2B deals).
 - **Sponsorship Opportunities**: Partner with brands and government entities, particularly in tourism, for co-branding and visibility.
+
+## Demo Recording :
+- google drive link  for the  Pitch : https://drive.google.com/file/d/1ovQEQJdvDvIElCUgPt76jXHfWcFM99c7/view?usp=sharing
+- google  drive link for  the  Demp : https://drive.google.com/file/d/1xzMk0A-aHE87M7VVU16K41GJmBEylGax/view?usp=sharing
+- google  drive link for  the  pdf : https://drive.google.com/file/d/1ovQEQJdvDvIElCUgPt76jXHfWcFM99c7/view?usp=sharing
