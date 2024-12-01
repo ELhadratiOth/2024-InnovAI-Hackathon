@@ -36,5 +36,5 @@ The Siir.AI chatbot is a **versatile, AI-powered assistant** designed to:
 
 ## Demo Recording :
 - google drive link  for the  Pitch : https://drive.google.com/file/d/1ovQEQJdvDvIElCUgPt76jXHfWcFM99c7/view?usp=sharing
-- google  drive link for  the  Demp : https://drive.google.com/file/d/1xzMk0A-aHE87M7VVU16K41GJmBEylGax/view?usp=sharing
-- google  drive link for  the  pdf : https://drive.google.com/file/d/1ovQEQJdvDvIElCUgPt76jXHfWcFM99c7/view?usp=sharing
+- google  drive link for  the  Demo : https://drive.google.com/file/d/1xzMk0A-aHE87M7VVU16K41GJmBEylGax/view?usp=sharing
+- google  drive link for  the  pdf : https://drive.google.com/file/d/10Ry5geBAPPO2x4QDMqOjDLV8OnXruYOd/view?usp=sharing
