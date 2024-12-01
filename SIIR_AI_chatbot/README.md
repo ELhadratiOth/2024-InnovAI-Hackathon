@@ -28,7 +28,7 @@ The Siir.AI chatbot is a **versatile, AI-powered assistant** designed to:
 ## Next Features to Enhance User Experience
 - **Multilingual Support**: Expanding language options for global accessibility.
 - **Integration with Booking Platforms**: Allowing users to book hotels and services directly.
-- **Real-Time Event Updates**: Providing live notifications for CAF 2025 and other events.
+- **Real-Time Event Updates**: Providing live notifications for CAN 2025 and other events.
 
 ## Monetization Strategies
 - **Advertising Partnerships**: Collaborate with businesses like hotels and restaurants for targeted promotions (B2B deals).
